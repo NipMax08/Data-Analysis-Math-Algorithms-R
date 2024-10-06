@@ -1,0 +1,3 @@
+#### A survey of 2120 residents of Canada was conducted to determine the key factors associated with political engagement. A variety of variables were measured and recorded including some tests they were asked to complete. Appendix 1 contains the data dictionary for the data set. One group of respondents(“Treat”) were given additional education on political matters while the other (“Control”) were not
+
+#### All of your charts, tables and graphs should be properly labelled
