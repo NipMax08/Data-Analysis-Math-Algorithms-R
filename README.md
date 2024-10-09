@@ -7,7 +7,7 @@
 ## CSV files are the data file, pdf files are the questions and the Word documents are my explanations and the screen shots. R file contains the R code
 
 #### Throughout the course I learned alot of valuable things all ranging from the basics of Big Data and how to understand the factors in defining analytical problems and deployment strategies. Moreover, I learned R and used it to perform data analysis. This involved a comprehensive process of readying the data for analysis including various transformation techniques and sampling methods. I Analyzed the data and problems to select most appropriate analytical technique to solve the problem. In addition, I learned and implemented various significance testing methods like the Chi-Sq test and the Shapiro-Wilks test to name a few. And by the end I was developing models to predict results ranging from regression, classification to unsupervised models. I then evaluated the models by using various and proper evaluation strategies so that the model that is the most appropriate for specific analytical problems and deployment strategies.
-
+![Screenshot 2024-10-08 213505](https://github.com/user-attachments/assets/869d7f81-34be-496a-a71f-9c3456285d32)
 
 # The unit outcomes looked like this. 
 ###    1.0     Preliminary Considerations in Big Data Analysis
